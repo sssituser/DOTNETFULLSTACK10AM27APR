@@ -1,0 +1,45 @@
+			Why Framework
+
+In order to develop applications
+
+	Software Apps		WebApps		Mobile  
+
+
+	Software :It is the collection programs can be called 
+	software.
+
+1. CUI(Character User Interface) or command line or console application
+	command
+	MySQL commanline,command
+
+2.GUI(Graphical User Interface) or Desktop application or Windows
+	windows os
+	Linux
+				C#.NET
+
+		It is a high level programming language.
+		It is used to develop software,web,mobile and DataSci,AI/ML
+		It belongs to c-family.
+		It is a case sensitive programming language.
+				while-->class
+		It is an object oriented programming language.
+				Encapsulation    c++,java,python,C#
+				Abstraction
+				Polymorphism
+				Inheritance
+				
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+

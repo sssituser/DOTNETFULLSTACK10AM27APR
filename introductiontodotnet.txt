@@ -1,0 +1,72 @@
+					.NET
+It is product of Microsoft .
+
+.Net is Framework which is used develop applications.
+		or
+.Net is software tool which used develop  applications.(VS2026)
+	or
+.Net is IDE(Integrate Development Environment) is which is used to develop application
+
+
+
+What is Framework :
+	It is the collection of large scale integrated different lib, and it is used 	to develop applications.
+
+
+		-----------------------------------------------
+		VB	VC#	VC++	VF#........70PLUS LANGS
+		-----------------------------------------------
+		CLS(COMMON LANGUAGE SPECIFICATION)
+		-----------------------------------------------
+		WINFORMS	ASP.NET CORE	LINQ and EF
+		-----------------------------------------------
+		ADO.NET(ACTIVE X DATA OBJECT)----> Traditional 
+		-----------------------------------------------
+		WCF		WPF		SILVER LIGHT
+		-----------------------------------------------
+		CLR(COMMON LANGUGE RUNTIME)
+		-----------------------------------------------	
+
+		DATA TYPES ARE COMMON FOR ALL THE LANGUAGES, HENCE
+		IT IS CALLED COMMON TYPE SPECIFICATION(CTS).
+
+		VB			VC#		VC++
+		DIM I AS INTEGER	int a;		int a;
+		4 BYTES			4bytes		4bytes
+				compile
+		Int32			Int32		Int32  MSIL(CLS)
+
+		WHAT IS CLS ?
+			CLS IS THE SUBSET OF CTS
+
+		WHY .NET ?
+			IN ORDDER DEVELOP APPLIATION
+		SOFTWARE	WEB APP		MOBILE  	AI/ML
+
+
+
+		WINFORMS IS A LIB WHICH IS USED TO DEVELOP SOFTWARE APPLICATIONS
+
+	ASP.NET ACTIVE SERVER PAGES : SERVER SIDE WEB TEH  IT IS USED TO DEVELOP
+	DYNAMIC WEB APPLICATION.
+
+
+	ADO.NET Active X Data Objecta
+	It is lib which provides communication b/w frontend and backend
+
+
+	front end		backend 
+	app	<----ADO.NET-----> sqlserver
+
+	query insert into table 
+
+LINQ or EF -> language Integrated query, It is a ORM(Object Relational Mapping)
+
+
+
+		WCF : WINDOWS COMMUNCTION FOUNDATION
+	IT PROVIDES COMMUMCATION BETWEEN TWO DIFFERENT APPLICATION WHEN THE  PROTOCOLS DIFFERNT
+
+		WPF : WINDOWS PRESENATION FOUNDATION 
+	IT IS USED DEVELOP SOFTWARE, IT PROVIDES TOUCH , IT PROVIDES RICH USER INTERFACE
+

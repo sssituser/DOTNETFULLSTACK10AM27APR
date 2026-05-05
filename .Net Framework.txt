@@ -1,0 +1,22 @@
+			.Net Framework
+
+			Develop application
+
+Software applications		Web Applications          Mobile Applications
+1.	CUI  (Character User Interface)
+    		or
+
+	Command Line
+
+   		 or
+
+	Console Application
+
+2.GUI(Graphical User interface)
+	or
+Desktop Application
+	or
+Windows
+
+
+

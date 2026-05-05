@@ -1,0 +1,66 @@
+header files		#include<stdio.h>
+void main(){		#include<conio.h>
+	code		void main(){
+				printf("Welcome to Clanguae")
+}			}
+
+
+			CPP
+
+headerfiles			#include<conio.h>
+class declaration		class Emp{
+void main(){			 	int eid;char[20] ename;
+ 					int esal;
+				}
+}				void main(){
+
+	
+				}
+
+				C# (C sharp)
+
+Predefined Namespaces(.dll files  Dynamic Link Lib) //Assemblies
+
+User-defined Namespace (Application)
+      class Declaration
+		Data Types  (optional)
+		Methods
+----------------------------------------------------------
+
+Predefined Namespaces :
+	These are .dll files(Dynamic Link lib), which consists of predefined classes
+	and respective data types method are available to reuse.
+	Example :
+		using System;--->Console,Arithemetic Exception et...
+		using System.Collections;--->Stack,Queue
+		using System.IO; --->StreamWriter,StreaReader etc..
+
+User defined namespace : It is an application which holds set of classes,Interface enumeration etc.
+
+class : It is the blue print of the Object.(Conceptual Definition)
+		or
+
+	It is collection of datatypes and methods(Practical definition)
+
+
+printf("stmt")
+cout<<"stmt"
+Sytem.out.println("Stmt")
+print("stmt")
+
+In C#
+	OutPut methods : In order to display the statements and values we use
+		Console.Write()
+		Console.WriteLine()
+
+	In Console.WriteLine , Console is a class, Write/WriteLine are static methods.
+	System--->Namespace
+          ------>Console-->class
+	            ---->Write
+		    ---->WriteLine
+
+
+	IDE(Integrated Development Environment)
+	Solution Explorer : It is tab which can hold the projects, and respective files.
+
+	

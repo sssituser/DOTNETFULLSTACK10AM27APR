@@ -1,0 +1,18 @@
+1. Initializing the data and displaying the data.
+
+
+
+Input Methods : These methods can be used to read the input from the console
+application.
+		1.Console.ReadLine() :
+			It is  used to read a string, and returns the string.
+		2.Console.Read() :
+			It is used Read ASCII values of the keys.
+			American Standard Coder for Information Interchange.
+		3.Console.ReadKey() :
+			It is used to check the key is pressed or not.
+
+
+
+		Console is class and ReadLine, Read, ReadKey are static
+		input method
